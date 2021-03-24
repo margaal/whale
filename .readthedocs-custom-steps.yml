@@ -1,2 +1,3 @@
 steps:
+- pip install 'pydoc-markdown>=3.0.0,<4.0.0'
 - pydoc-markdown --build --site-dir $SITE_DIR
