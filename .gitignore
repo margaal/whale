@@ -1,0 +1,6 @@
+.vscode
+dist
+eggs
+*.eggs-info
+**/__pycache__
+build
