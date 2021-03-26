@@ -1,4 +1,4 @@
-# Whale
+# Whale (SAT Solver)
 whale is a "small" SAT solver based on DPLL iterative algorithm. Given a set of clauses retrieved from a file in DIMACS format, Whale enables to know if this set of clauses is SATISFIABLE (SAT) or UNSATISFIABLE (UNSAT).
 
 ## Features
